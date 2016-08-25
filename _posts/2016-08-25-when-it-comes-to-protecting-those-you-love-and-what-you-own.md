@@ -10,8 +10,8 @@ description: >-
   considering bankruptcy, you need a law firm that will take time to understand
   your unique situation, and then present viable options to help you achieve
   your objectives.
-datePublished: '2016-08-25T16:12:10.064Z'
-dateModified: '2016-08-25T16:05:39.295Z'
+datePublished: '2016-08-25T17:20:44.926Z'
+dateModified: '2016-08-25T16:12:18.464Z'
 title: >-
   When it comes to protecting those you love and what you own, you need a law
   firm that understands the complexities of today's legal system.
