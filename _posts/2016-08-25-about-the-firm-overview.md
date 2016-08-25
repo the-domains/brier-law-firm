@@ -8,8 +8,8 @@ description: >-
   Based in Tulsa, Oklahoma, Brier Law Firm provides legal services in the areas
   of wills, estates and trusts; elder law and guardianships; bankruptcy; real
   estate; and litigation. 
-datePublished: '2016-08-25T16:12:16.759Z'
-dateModified: '2016-08-25T16:12:04.849Z'
+datePublished: '2016-08-25T17:31:32.369Z'
+dateModified: '2016-08-25T17:30:06.472Z'
 title: About The Firm — Overview
 author: []
 via: {}
