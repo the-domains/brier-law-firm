@@ -1,0 +1,28 @@
+name: Brier Law Firm
+favicon: null
+layout_spectrum: 0.6551353316754103
+typography_spectrum: 0.9008576623164117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.47668037307448685
+  lightness: 0.5955241846386343
+  saturation: 0.3570958359632641
+  rhythmicContrast: 0.4276985256001353
+purpose: []
