@@ -1,6 +1,6 @@
 name: Brier Law Firm
 favicon: null
-layout_spectrum: 0.25034
+layout_spectrum: 1
 typography_spectrum: 0.74559
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#56514d'
     - '#767d8f'
     - '#07060b'
-  brandStrength: 0.5
+  brandStrength: 0.5625
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
