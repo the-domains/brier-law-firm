@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -10,8 +10,8 @@ description: >-
   considering bankruptcy, you need a law firm that will take time to understand
   your unique situation, and then present viable options to help you achieve
   your objectives.
-datePublished: '2016-08-25T16:02:42.805Z'
-dateModified: '2016-08-25T16:02:00.845Z'
+datePublished: '2016-08-25T16:12:10.064Z'
+dateModified: '2016-08-25T16:05:39.295Z'
 title: >-
   When it comes to protecting those you love and what you own, you need a law
   firm that understands the complexities of today's legal system.
@@ -20,7 +20,11 @@ via: {}
 sourcePath: >-
   _posts/2016-08-25-when-it-comes-to-protecting-those-you-love-and-what-you-own.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: when-it-comes-to-protecting-those-you-love-and-what-you-own/index.html
 _type: Article
