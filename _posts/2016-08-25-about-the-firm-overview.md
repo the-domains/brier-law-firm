@@ -8,8 +8,8 @@ description: >-
   Based in Tulsa, Oklahoma, Brier Law Firm provides legal services in the areas
   of wills, estates and trusts; elder law and guardianships; bankruptcy; real
   estate; and litigation. 
-datePublished: '2016-08-25T15:48:51.906Z'
-dateModified: '2016-08-25T15:47:31.740Z'
+datePublished: '2016-08-25T15:50:45.479Z'
+dateModified: '2016-08-25T15:49:30.932Z'
 title: About The Firm — Overview
 author: []
 via: {}
@@ -36,4 +36,3 @@ Founded by Leslie K. Brier, the Firm prides itself on delivering_**personalized 
 • We work hard to exceed client expectations
 
 • We treat information obtained from our clients and potential clients as confidential at all times
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6366117-a979-40d9-9873-bbd9686609bb.jpg)
